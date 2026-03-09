@@ -1,0 +1,21 @@
+git --version
+python testing.py
+ls
+ls -l
+git init
+git status
+git add testing.py
+git status
+git commit -m "adding testing.py in tracked"
+git status
+rm testing.py
+ls
+git status
+git restore testing.py
+python testing.py
+ history
+git add .
+git status
+git commit -m "commands"
+git status
+git push origin master
