@@ -19,3 +19,9 @@ git status
 git commit -m "commands"
 git status
 git push origin master
+ history
+git add .
+git status
+git commit -m "commands"
+git status
+git push origin master
