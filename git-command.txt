@@ -12,7 +12,7 @@ rm testing.py
 ls
 git status
 git restore testing.py
-python testing.py
+
  history
 git add .
 git status
@@ -25,3 +25,5 @@ git status
 git commit -m "commands"
 git status
 git push origin master
+
+
